@@ -1,0 +1,74 @@
+h1 {
+  text-align: center;
+  color: #616161;
+}
+
+p {
+  text-align: center;
+  color: #616161;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+  background-color: #757575;
+}
+
+#top {
+  margin-bottom: 10px;
+  border-style: solid;
+  background-color: #f44336;
+  border-color: #f44336;
+  font-family: Consolas, monaco, monospace;
+}
+
+#me {
+  margin: 0;
+}
+
+#myImage {
+  border-radius: 30px;
+  align-content: center;
+  display: block;
+  margin: auto;
+  max-width: 18%;
+  max-height: 25%;
+}
+
+#buttons {
+  align-content: center;
+  display: block;
+  margin: auto;
+  max-width: 15%;
+  max-height: 15%;
+}
+
+#bottom {
+  margin: 30px;
+  max-width: none;
+  max-height: 40%;
+  font-family: Consolas, monaco, monospace;
+}
+
+#LIbutton {
+  background-color: #757575;
+  border-color: #757575;
+}
+
+#GHbutton {
+  background-color: #757575;
+  border-color: #757575;
+}
+
+#Resumebutton {
+  background-color: #757575;
+  border-color: #757575;
+}
+
+#Emailbutton {
+  background-color: #757575;
+  border-color: #757575;
+}
