@@ -43,7 +43,7 @@ body {
   align-content: center;
   display: block;
   margin: auto;
-  max-width: 15%;
+  max-width: 11%;
   max-height: 15%;
 }
 
@@ -52,24 +52,4 @@ body {
   max-width: none;
   max-height: 40%;
   font-family: Consolas, monaco, monospace;
-}
-
-#LIbutton {
-  background-color: #757575;
-  border-color: #757575;
-}
-
-#GHbutton {
-  background-color: #757575;
-  border-color: #757575;
-}
-
-#Resumebutton {
-  background-color: #757575;
-  border-color: #757575;
-}
-
-#Emailbutton {
-  background-color: #757575;
-  border-color: #757575;
 }
