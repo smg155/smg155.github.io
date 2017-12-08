@@ -14,7 +14,7 @@ body, html {
 }
 
 body {
-  background-color: #ffe082;
+  background-color: #e57373;
 }
 
 h1 {
@@ -54,8 +54,8 @@ h1 {
   box-shadow: 0 8px 4px -6px black;
   margin-bottom: 20px;
   border-style: solid;
-  background-color: #f44336;
-  border-color: #f44336;
+  background-color: #e57373;
+  border-color: #e57373;
   max-width: 100%;
   height: 20%;
   font-family: Consolas, monaco, monospace;
