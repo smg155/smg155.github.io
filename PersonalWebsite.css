@@ -18,8 +18,9 @@ body {
 }
 
 h1 {
+  font-size: 250%;
   animation:
-    typing 3s steps(15),
+    typing 2s steps(15),
     blink-caret .75s step-end infinite;
   overflow: hidden;
   white-space: nowrap;
@@ -28,6 +29,7 @@ h1 {
   display: block;
   margin: 0 auto;
   width: 15ch;
+  color: #ffe082;
 }
 
 @keyframes typing {
