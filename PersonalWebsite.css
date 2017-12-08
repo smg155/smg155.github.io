@@ -43,7 +43,7 @@ body {
 #buttons {
   align-content: center;
   display: block;
-  margin: auto;
+  margin: 0 auto;
   max-width: 13%;
   max-height: 15%;
 }
